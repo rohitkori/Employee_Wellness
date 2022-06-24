@@ -22,3 +22,12 @@ C:\Users\HP\Desktop\App\Test_task_manager\Test_task_manager\obj\Debug\Test_task_
 C:\Users\HP\Desktop\App\Test_task_manager\Test_task_manager\obj\Debug\Test_task_manager.csproj.CoreCompileInputs.cache
 C:\Users\HP\Desktop\App\Test_task_manager\Test_task_manager\obj\Debug\Test_task_manager.dll
 C:\Users\HP\Desktop\App\Test_task_manager\Test_task_manager\obj\Debug\Test_task_manager.pdb
+D:\ED project githu\Employee_Wellness\App\Test_task_manager\Test_task_manager\obj\Debug\Test_task_manager.csproj.AssemblyReference.cache
+D:\ED project githu\Employee_Wellness\App\Test_task_manager\Test_task_manager\obj\Debug\Test_task_manager.csproj.ResolveComReference.cache
+D:\ED project githu\Employee_Wellness\App\Test_task_manager\Test_task_manager\obj\Debug\Test_task_manager.AboutBox1.resources
+D:\ED project githu\Employee_Wellness\App\Test_task_manager\Test_task_manager\obj\Debug\Test_task_manager.Task_manager.resources
+D:\ED project githu\Employee_Wellness\App\Test_task_manager\Test_task_manager\obj\Debug\Test_task_manager.Properties.Resources.resources
+D:\ED project githu\Employee_Wellness\App\Test_task_manager\Test_task_manager\obj\Debug\Test_task_manager.csproj.GenerateResource.cache
+D:\ED project githu\Employee_Wellness\App\Test_task_manager\Test_task_manager\obj\Debug\Test_task_manager.csproj.CoreCompileInputs.cache
+D:\ED project githu\Employee_Wellness\App\Test_task_manager\Test_task_manager\obj\Debug\Test_task_manager.dll
+D:\ED project githu\Employee_Wellness\App\Test_task_manager\Test_task_manager\obj\Debug\Test_task_manager.pdb
